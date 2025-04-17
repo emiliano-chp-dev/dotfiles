@@ -1,0 +1,7 @@
+2025-04-17 11:22:19.373 [info] Getting Manifest... yandeu.five-server
+2025-04-17 11:22:20.328 [info] Installing extension: yandeu.five-server {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/emiliano/.vscode-oss/extensions/extensions.json","path":"/home/emiliano/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-16T19:59:52.773Z"}}
+2025-04-17 11:22:21.560 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-04-17 11:22:21.561 [info] Extension signature verification is not done: yandeu.five-server
+2025-04-17 11:22:21.743 [info] Extracted extension to file:///home/emiliano/.vscode-oss/extensions/yandeu.five-server-0.3.7-universal: yandeu.five-server
+2025-04-17 11:22:21.763 [info] Renamed to /home/emiliano/.vscode-oss/extensions/yandeu.five-server-0.3.7-universal
+2025-04-17 11:22:21.780 [info] Extension installed successfully: yandeu.five-server vscode-userdata:/home/emiliano/.vscode-oss/extensions/extensions.json

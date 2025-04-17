@@ -1,0 +1,26 @@
+2025-04-17 11:18:20.300 [info] [main] Log level: Info
+2025-04-17 11:18:20.300 [info] [main] Validating found git in: "git"
+2025-04-17 11:18:20.300 [info] [main] Using git "2.49.0" from "git"
+2025-04-17 11:18:20.300 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-17 11:18:20.300 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-17 11:18:20.300 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-04-17 11:18:20.300 [info] [Model][openRepository] Opened repository: /home/emiliano/repos/odin-recipes
+2025-04-17 11:18:20.300 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-17 11:18:20.313 [info] > git config --get commit.template [3ms]
+2025-04-17 11:18:20.344 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2025-04-17 11:18:20.365 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/emiliano/repos/odin-recipes/.git/refs/remotes/origin/main'
+2025-04-17 11:18:20.368 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-04-17 11:18:20.389 [info] > git status -z -uall [11ms]
+2025-04-17 11:18:20.390 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-04-17 11:18:20.425 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-04-17 11:18:20.434 [info] > git config --get --local branch.main.vscode-merge-base [3ms]
+2025-04-17 11:18:20.442 [info] > git config --get commit.template [17ms]
+2025-04-17 11:18:20.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-04-17 11:18:20.478 [info] > git merge-base refs/heads/main refs/remotes/origin/main [28ms]
+2025-04-17 11:18:20.490 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-04-17 11:18:20.500 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/emiliano/repos/odin-recipes/.git/refs/remotes/origin/main'
+2025-04-17 11:18:20.500 [info] > git diff --name-status -z --diff-filter=ADMR ccf6364cb57de5f1365dc0146fcd641cc2e36d3f...refs/remotes/origin/main [13ms]
+2025-04-17 11:18:20.503 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-04-17 11:18:20.523 [info] > git status -z -uall [12ms]
+2025-04-17 11:18:20.524 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-04-17 11:18:20.840 [info] > git check-ignore -v -z --stdin [3ms]
