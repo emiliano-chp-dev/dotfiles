@@ -4,5 +4,12 @@
         "serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
         "cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
         "itemUrl": "https://marketplace.visualstudio.com/items"
+    },
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'JetBrainsMonoNL Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Default Light Modern",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
     }
 }

@@ -19,3 +19,8 @@
 2025-04-17 11:22:07.462 [info] Added views:workbench.views.extensions.popular in workbench.view.extensions
 2025-04-17 11:22:10.054 [info] Removed views:extensions.recommendedList,workbench.views.extensions.popular,workbench.views.extensions.installed from workbench.view.extensions
 2025-04-17 11:22:10.067 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2025-04-17 12:12:35.325 [info] Removed views:workbench.scm.history from workbench.view.scm
+2025-04-17 12:12:35.543 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2025-04-17 12:12:35.899 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-04-17 12:12:36.371 [info] Added views:workbench.scm.history in workbench.view.scm
+2025-04-17 12:41:51.476 [info] Removed views:workbench.scm.history from workbench.view.scm

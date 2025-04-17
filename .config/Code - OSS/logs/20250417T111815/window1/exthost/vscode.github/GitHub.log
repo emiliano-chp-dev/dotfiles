@@ -1,2 +1,5 @@
 2025-04-17 11:18:17.052 [info] Log level: Info
 2025-04-17 11:18:20.528 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-04-17 11:27:43.653 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for emiliano-chp-dev/odin-recipes: Error: No GitHub authentication session available.
+2025-04-17 12:12:36.760 [info] Log level: Info
+2025-04-17 12:12:36.817 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.

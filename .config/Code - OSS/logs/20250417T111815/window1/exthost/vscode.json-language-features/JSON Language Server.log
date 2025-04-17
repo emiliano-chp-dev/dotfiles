@@ -16,3 +16,9 @@
 2025-04-17 11:21:21.324 [info] read schema from vscode: vscode://schemas/settings/user
 2025-04-17 11:22:06.895 [info] schema change detected vscode://schemas/settings/user
 2025-04-17 11:22:21.954 [info] schema change detected vscode://schemas/settings/user
+2025-04-17 11:30:56.346 [info] schema change detected vscode://schemas/workbench-colors
+2025-04-17 11:30:58.261 [info] schema change detected vscode://schemas/workbench-colors
+2025-04-17 11:30:58.606 [info] schema change detected vscode://schemas/workbench-colors
+2025-04-17 11:31:01.937 [info] schema change detected vscode://schemas/workbench-colors
+2025-04-17 11:31:02.317 [info] schema change detected vscode://schemas/workbench-colors
+2025-04-17 12:12:23.233 [info] schema change detected vscode://schemas/settings/user
